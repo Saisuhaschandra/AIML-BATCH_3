@@ -5,4 +5,4 @@
 
 2.[LAB_2](https://github.com/Saisuhaschandra/AIML-LAB/blob/main/LAB_2.ipynb)
 
-3.[ASSIGNMENT_3](https://github.com/Saisuhaschandra/AIML-LAB/blob/main/Assignment3.ipynb?short_path=33b0a78)
+3.[ASSIGNMENT_3](https://github.com/Saisuhaschandra/AIML-LAB/blob/main/Assignment3.ipynb)
