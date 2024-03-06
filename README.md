@@ -9,3 +9,4 @@
 
 4.[ASSIGNMENT_5](https://github.com/Saisuhaschandra/AIML-LAB/blob/main/LAB%20ASSINMENT%205.ipynb)
 
+5.[ASSIGNMENT_6](https://colab.research.google.com/drive/1QF01cWe7Sp8jhT2UrS3Y9SDO9i9P-bmv#scrollTo=N6IdoIahLVoR)
