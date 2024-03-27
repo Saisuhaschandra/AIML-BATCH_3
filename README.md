@@ -12,3 +12,5 @@
 5.[ASSIGNMENT_6](https://colab.research.google.com/drive/1QF01cWe7Sp8jhT2UrS3Y9SDO9i9P-bmv#scrollTo=N6IdoIahLVoR)
 
 6.[assignment 7](https://github.com/Saisuhaschandra/AIML-LAB/blob/main/lab_assignment_7.ipynb)
+
+7.[Assignment 8](https://github.com/Saisuhaschandra/AIML-LAB/blob/main/assignment_8.ipynb)
