@@ -14,3 +14,5 @@
 6.[assignment 7](https://github.com/Saisuhaschandra/AIML-LAB/blob/main/lab_assignment_7.ipynb)
 
 7.[Assignment 8](https://github.com/Saisuhaschandra/AIML-LAB/blob/main/assignment_8.ipynb)
+
+8.[Assignment 9](https://github.com/Saisuhaschandra/AIML-LAB/blob/main/Assignment%209.ipynb)
